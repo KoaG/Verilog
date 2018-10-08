@@ -20,9 +20,9 @@ always @(posedge clk) begin
     end
     else begin
         case({Q[0],Q0})
-            2'b01 : {A,Q,Q0} = {sum[n-1],sum,Q};
-            2'b10 : {A,Q,Q0} = {diff[n-1],diff,Q};
-            default : {A,Q,Q0} = {A[n-1],A,Q};
+            2'b01 : {A,Q,Q0} <= {sum[n-1],sum,Q};
+            2'b10 : {A,Q,Q0} <= {diff[n-1],diff,Q};
+            default : {A,Q,Q0} <= {A[n-1],A,Q};
         endcase
         count <= count + 1'b1;
     end
