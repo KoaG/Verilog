@@ -13,7 +13,7 @@ or or1(w4,d,cin);
 not not2(w5,w3);
 not not3(w6,w4);
 
-always @(a,b,c,d,cin) begin
+always @(a,b,c,d,cin,w1,w2,w3,w4,w5,w6) begin
 	case({a,b,c})
 		3'b000 : {c1,c0,s} = {1'b0 , w3 , w1};
 		3'b001 : {c1,c0,s} = {1'b0 , w4 , w2};

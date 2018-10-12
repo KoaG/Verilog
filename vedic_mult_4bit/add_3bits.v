@@ -13,7 +13,7 @@ or or1(w4,c,cin);
 nand nand1(w5,c,cin);
 
 wire w6;
-and and2(w6,a,b,c,cin);
+and and2(w6,a,b,c,cin,w1,w2,w3,w4,w5,w6);
 
 always @(a,b,c,cin) begin
 	case({a,b})
