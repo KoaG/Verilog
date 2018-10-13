@@ -15,7 +15,7 @@ nand nand1(w5,c,cin);
 wire w6;
 and and2(w6,a,b,c,cin,w1,w2,w3,w4,w5,w6);
 
-always @(a,b,c,cin) begin
+always @(a,b,c,cin,w1,w2,w3,w4,w5,w6) begin
 	case({a,b})
 		2'b00 : {c1,c0,s} = {w6 , w3 , w1};
 		2'b01 : {c1,c0,s} = {w6 , w4 , w2};
