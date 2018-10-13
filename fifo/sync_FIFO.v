@@ -5,7 +5,7 @@ module sync_FIFO (
 	output reg [7:0]dout
 	);
 
-reg [7:0]fifo[7:0];
+reg [7:0]fifo[0:7];
 reg [3:0]data_count;
 reg [2:0]rd_ptr,wr_ptr;
 reg [1:0]flag,err;	//flag[1] = full, flag[0] = empty
@@ -89,7 +89,7 @@ always @(posedge clk) begin
 							end							
 			endcase			
 		end
-		else begin				//full fifo
+		else if (flag == 2'b10) begin		//full fifo
 			case({we,re})
 				2'b00 : 	begin			//no-op
 							dout <= 8'd0;
@@ -121,6 +121,13 @@ always @(posedge clk) begin
 							data_count <= data_count;
 							end							
 			endcase		
+		end
+		else begin
+			dout <= 8'd0;
+			rd_ptr <= rd_ptr;
+			wr_ptr <= wr_ptr;
+			data_count <= data_count;
+			err <= 2'b11;
 		end
 	end
 end
