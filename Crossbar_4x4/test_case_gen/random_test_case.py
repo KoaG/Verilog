@@ -24,52 +24,55 @@ pyl_i3s1 = format(0xD2,'08b')
 pyl_i3s2 = format(0xD3,'08b')
 pyl_i3s3 = format(0xD4,'08b')
 
+def write_data(i0,i1,i2,i3):
+	for i in range(4):
+		data = i0[0+i*4:4+i*4] + i1[0+i*4:4+i*4] + i2[0+i*4:4+i*4] + i3[0+i*4:4+i*4] + '\n'
+		file.write(data)
+
+
 def get_iport0(i1,i2,i3):
 	r = rand(rl,rh)
-        i0s0i = str(format(l[r],'08b')) + pyl_i0s0
-        r = rand(rl,rh) 
-        i0s1i = str(format(l[r],'08b')) + pyl_i0s1
-        r = rand(rl,rh)
-        i0s2i = str(format(l[r],'08b')) + pyl_i0s2
-        r = rand(rl,rh)
-        i0s3i = str(format(l[r],'08b')) + pyl_i0s3
-        file.write(format(int(i0s0i+i0s1i+i0s2i+i0s3i,2),'016x')+'\n')
-        file.write(i1 + '\n')
-        file.write(i2 + '\n')
-        file.write(i3 + '\n')
+	i0s0i = str(format(l[r],'08b')) + pyl_i0s0
+	r = rand(rl,rh) 
+	i0s1i = str(format(l[r],'08b')) + pyl_i0s1
+	r = rand(rl,rh)
+	i0s2i = str(format(l[r],'08b')) + pyl_i0s2
+	r = rand(rl,rh)
+	i0s3i = str(format(l[r],'08b')) + pyl_i0s3
+	write_data(format(int(i0s0i+i0s1i+i0s2i+i0s3i,2),'016x'),i1,i2,i3)
 
 def get_iport1(i2,i3):
-        r = rand(rl,rh)
-        i1s0i = str(format(l[r],'08b')) + pyl_i1s0
-        r = rand(rl,rh)
-        i1s1i = str(format(l[r],'08b')) + pyl_i1s1
-        r = rand(rl,rh)
-        i1s2i = str(format(l[r],'08b')) + pyl_i1s2
-        r = rand(rl,rh)
-        i1s3i = str(format(l[r],'08b')) + pyl_i1s3
-        get_iport0(format(int(i1s0i+i1s1i+i1s2i+i1s3i,2),'016x'),i2,i3)
+	r = rand(rl,rh)
+	i1s0i = str(format(l[r],'08b')) + pyl_i1s0
+	r = rand(rl,rh)
+	i1s1i = str(format(l[r],'08b')) + pyl_i1s1
+	r = rand(rl,rh)
+	i1s2i = str(format(l[r],'08b')) + pyl_i1s2
+	r = rand(rl,rh)
+	i1s3i = str(format(l[r],'08b')) + pyl_i1s3
+	get_iport0(format(int(i1s0i+i1s1i+i1s2i+i1s3i,2),'016x'),i2,i3)
 
 def get_iport2(i3):
 	r = rand(rl,rh)
-        i2s0i = str(format(l[r],'08b')) + pyl_i2s0
-        r = rand(rl,rh)
-        i2s1i = str(format(l[r],'08b')) + pyl_i2s1
-        r = rand(rl,rh)
-        i2s2i = str(format(l[r],'08b')) + pyl_i0s2
-        r = rand(rl,rh)
-        i2s3i = str(format(l[r],'08b')) + pyl_i2s3
-        get_iport1(format(int(i2s0i+i2s1i+i2s2i+i2s3i,2),'016x'),i3)
+	i2s0i = str(format(l[r],'08b')) + pyl_i2s0
+	r = rand(rl,rh)
+	i2s1i = str(format(l[r],'08b')) + pyl_i2s1
+	r = rand(rl,rh)
+	i2s2i = str(format(l[r],'08b')) + pyl_i0s2
+	r = rand(rl,rh)
+	i2s3i = str(format(l[r],'08b')) + pyl_i2s3
+	get_iport1(format(int(i2s0i+i2s1i+i2s2i+i2s3i,2),'016x'),i3)
 
 def get_iport3():
 	r = rand(rl,rh)
-        i3s0i = str(format(l[r],'08b')) + pyl_i3s0
-        r = rand(rl,rh)
-        i3s1i = str(format(l[r],'08b')) + pyl_i3s1
-        r = rand(rl,rh)
-        i3s2i = str(format(l[r],'08b')) + pyl_i3s2
-        r = rand(rl,rh)
-        i3s3i = str(format(l[r],'08b')) + pyl_i3s3
-        get_iport2(format(int(i3s0i+i3s1i+i3s2i+i3s3i,2),'016x'))
+	i3s0i = str(format(l[r],'08b')) + pyl_i3s0
+	r = rand(rl,rh)
+	i3s1i = str(format(l[r],'08b')) + pyl_i3s1
+	r = rand(rl,rh)
+	i3s2i = str(format(l[r],'08b')) + pyl_i3s2
+	r = rand(rl,rh)
+	i3s3i = str(format(l[r],'08b')) + pyl_i3s3
+	get_iport2(format(int(i3s0i+i3s1i+i3s2i+i3s3i,2),'016x'))
 
 
 file = open("test_cases.txt","w")

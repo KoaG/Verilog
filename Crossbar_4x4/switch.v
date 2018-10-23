@@ -16,7 +16,6 @@ parameter idle = 3'b000,
 reg [2:0]ps_r,ns_r,ps_s,ns_s;
 reg send;
 wire [14:0]mem[0:3][0:3];
-//reg [14:0]crossbar[0:3][0:3];
 reg [1:0]count;
 reg clr;
 
@@ -29,20 +28,19 @@ mux_fabric mf(
     .os10(mem[1][0]),.os11(mem[1][1]),.os12(mem[1][2]),.os13(mem[1][3]),
     .os20(mem[2][0]),.os21(mem[2][1]),.os22(mem[2][2]),.os23(mem[2][3]),
     .os30(mem[3][0]),.os31(mem[3][1]),.os32(mem[3][2]),.os33(mem[3][3]),
-    /*.ss00(mem[0][0][12:11]),.ss01(mem[0][1][12:11]),.ss02(mem[0][2][12:11]),.ss03(mem[0][3][12:11]),
-    .ss10(mem[1][0][12:11]),.ss11(mem[1][1][12:11]),.ss12(mem[1][2][12:11]),.ss13(mem[1][3][12:11]),
-    .ss20(mem[2][0][12:11]),.ss21(mem[2][1][12:11]),.ss22(mem[2][2][12:11]),.ss23(mem[2][3][12:11]),
-    .ss30(mem[3][0][12:11]),.ss31(mem[3][1][12:11]),.ss32(mem[3][2][12:11]),.ss33(mem[3][3][12:11]),*/
     .slot(count),
     .clr(clr)
 );
 
-always @(posedge clk, posedge rst) begin
+wire handshake;
+assign handshake = start & req;
+
+always @(posedge clk,posedge handshake, posedge rst) begin
     if(rst) begin
         ps_r <= idle;
         ps_s <= slot0;
     end
-    else if(start) begin
+    else if(handshake) begin
         ps_r <= slot0;
         ps_s <= slot0;
     end
@@ -52,115 +50,42 @@ always @(posedge clk, posedge rst) begin
     end
 end
 
-always @(ps_r,start,send) begin
+always @(ps_r,send) begin
     case(ps_r)
-        idle  : begin/*
-                    if(start) begin
-                        clr <= 1'b0;
-                        ready <= 1'b0;
-                        count <= 2'b00;
-                        req <= 1'b0;
-                        ns_r <= slot0;
-                    end
-                    else begin*/
-                        clr <= 1'b1;
-                        ready <= 1'b0;
-                        count <= 2'b00;
-                        req <= 1'b1;
-                        ns_r <= idle;
-                    //end
+        idle  : begin
+                    clr <= 1'b1;
+                    ready <= 1'b0;
+                    count <= 2'b00;
+                    req <= 1'b1;
+                    ns_r <= idle;
                 end
         slot0 : begin
                     clr <= 1'b0;
                     ready <= 1'b0;
                     count <= 2'b00;
                     req <= 1'b0;
-                    ns_r <= slot1;/*
-                    crossbar[0][0] <= mem[0][0];
-                    crossbar[0][1] <= mem[0][1][10];
-                    crossbar[0][2] <= mem[0][2][10];
-                    crossbar[0][3] <= mem[0][3][10];
-                    crossbar[1][0] <= mem[1][0][10];
-                    crossbar[1][1] <= mem[1][1][10];
-                    crossbar[1][2] <= mem[1][2][10];
-                    crossbar[1][3] <= mem[1][3][10];
-                    crossbar[2][0] <= mem[2][0][10];
-                    crossbar[2][1] <= mem[2][1][10];
-                    crossbar[2][2] <= mem[2][2][10];
-                    crossbar[2][3] <= mem[2][3][10];
-                    crossbar[3][0] <= mem[3][0][10];
-                    crossbar[3][1] <= mem[3][1][10];
-                    crossbar[3][2] <= mem[3][2][10];
-                    crossbar[3][3] <= mem[3][3][10];*/
+                    ns_r <= slot1;
                 end
         slot1 : begin
                     clr <= 1'b0;
                     ready <= 1'b0;
                     req <= 1'b0;
                     ns_r <= slot2;
-                    count <= 2'b01;/*
-                    crossbar[0][0] <= mem[0][0][10];
-                    crossbar[0][1] <= mem[0][1][10];
-                    crossbar[0][2] <= mem[0][2][10];
-                    crossbar[0][3] <= mem[0][3][10];
-                    crossbar[1][0] <= mem[1][0][10];
-                    crossbar[1][1] <= mem[1][1][10];
-                    crossbar[1][2] <= mem[1][2][10];
-                    crossbar[1][3] <= mem[1][3][10];
-                    crossbar[2][0] <= mem[2][0][10];
-                    crossbar[2][1] <= mem[2][1][10];
-                    crossbar[2][2] <= mem[2][2][10];
-                    crossbar[2][3] <= mem[2][3][10];
-                    crossbar[3][0] <= mem[3][0][10];
-                    crossbar[3][1] <= mem[3][1][10];
-                    crossbar[3][2] <= mem[3][2][10];
-                    crossbar[3][3] <= mem[3][3][10];*/
+                    count <= 2'b01;
                 end
         slot2 : begin
                     clr <= 1'b0;
                     ready <= 1'b0;
                     req <= 1'b0;
                     ns_r <= slot3;
-                    count <= 2'b10;/*
-                    crossbar[0][0] <= mem[0][0][10];
-                    crossbar[0][1] <= mem[0][1][10];
-                    crossbar[0][2] <= mem[0][2][10];
-                    crossbar[0][3] <= mem[0][3][10];
-                    crossbar[1][0] <= mem[1][0][10];
-                    crossbar[1][1] <= mem[1][1][10];
-                    crossbar[1][2] <= mem[1][2][10];
-                    crossbar[1][3] <= mem[1][3][10];
-                    crossbar[2][0] <= mem[2][0][10];
-                    crossbar[2][1] <= mem[2][1][10];
-                    crossbar[2][2] <= mem[2][2][10];
-                    crossbar[2][3] <= mem[2][3][10];
-                    crossbar[3][0] <= mem[3][0][10];
-                    crossbar[3][1] <= mem[3][1][10];
-                    crossbar[3][2] <= mem[3][2][10];
-                    crossbar[3][3] <= mem[3][3][10];*/
+                    count <= 2'b10;
                 end
         slot3 : begin
                     clr <= 1'b0;
                     ready <= 1'b0;
                     req <= 1'b0;
                     ns_r <= done;
-                    count <= 2'b11;/*
-                    crossbar[0][0] <= mem[0][0][10];
-                    crossbar[0][1] <= mem[0][1];
-                    crossbar[0][2] <= mem[0][2];
-                    crossbar[0][3] <= mem[0][3];
-                    crossbar[1][0] <= mem[1][0];
-                    crossbar[1][1] <= mem[1][1];
-                    crossbar[1][2] <= mem[1][2];
-                    crossbar[1][3] <= mem[1][3];
-                    crossbar[2][0] <= mem[2][0];
-                    crossbar[2][1] <= mem[2][1];
-                    crossbar[2][2] <= mem[2][2];
-                    crossbar[2][3] <= mem[2][3];
-                    crossbar[3][0] <= mem[3][0];
-                    crossbar[3][1] <= mem[3][1];
-                    crossbar[3][2] <= mem[3][2];
-                    crossbar[3][3] <= mem[3][3];*/                    
+                    count <= 2'b11;
                 end
         done :  begin
                     count <= 2'b11;
