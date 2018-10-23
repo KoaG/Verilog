@@ -1,128 +1,138 @@
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:20 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 19:47:20 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:20 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:46 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:46 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 19:47:21 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:21 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 19:47:22 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:22 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 19:47:22 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:22 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 19:47:22 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:47 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 19:47:22 on Oct 23,2018
+# Start time: 01:16:47 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 19:47:22 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:16:48 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 19:47:22 on Oct 23,2018
+# Start time: 01:16:48 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
 # Loading work.ROM_mem_file_out
 # Loading work.memory_controller
+# Loading work.memory_controller_output
 # Loading work.switch
 # Loading work.mux_fabric
 # Loading work.dest_decoder
@@ -130,288 +140,283 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftt7rg92".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftt7rg92
-run
-run
-run
-run
-run
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:02 on Oct 23,2018
+# Start time: 01:22:13 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:22:13 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:03 on Oct 23,2018
+# Start time: 01:22:13 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:14 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:03 on Oct 23,2018
+# Start time: 01:22:14 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:14 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:03 on Oct 23,2018
+# Start time: 01:22:14 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:14 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:03 on Oct 23,2018
+# Start time: 01:22:14 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:14 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:03 on Oct 23,2018
+# Start time: 01:22:14 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 22:08:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:14 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:14 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:15 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:15 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:15 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:15 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
+# Start time: 01:22:15 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:22:15 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:22:15 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:08:04 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:08:04 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:08:05 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# End time: 22:08:07 on Oct 23,2018, Elapsed time: 2:20:45
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:08:08 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft0zgr2v".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft0zgr2v
-run
-run
-run
-run
-run
-run
+# ** Error: (vlog-13069) crossbar_driver.v(68): near "always": syntax error, unexpected always, expecting ';' or ','.
+# ** Error: crossbar_driver.v(71): (vlog-13205) Syntax error found in the scope following 'miss'. Is there a missing '::'?
+# End time: 01:22:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./crossbar_driver.do line 16
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog crossbar_driver.v"
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:49 on Oct 23,2018
+# Start time: 01:22:41 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 22:09:49 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:41 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:49 on Oct 23,2018
+# Start time: 01:22:41 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:22:41 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:41 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 22:09:50 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:50 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:51 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:51 on Oct 23,2018
+# Start time: 01:22:42 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:42 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:51 on Oct 23,2018
+# Start time: 01:22:43 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:43 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:51 on Oct 23,2018
+# Start time: 01:22:43 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 01:22:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:22:43 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:22:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:22:43 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:43 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:09:51 on Oct 23,2018
+# Start time: 01:22:43 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 22:09:51 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:22:43 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 22:09:53 on Oct 23,2018, Elapsed time: 0:01:45
-# Errors: 0, Warnings: 2
+# End time: 01:22:45 on Oct 24,2018, Elapsed time: 0:05:57
+# Errors: 5, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 22:09:53 on Oct 23,2018
+# Start time: 01:22:45 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
 # Loading work.ROM_mem_file_out
 # Loading work.memory_controller
+# Loading work.memory_controller_output
 # Loading work.switch
 # Loading work.mux_fabric
 # Loading work.dest_decoder
@@ -419,1878 +424,151 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft7qgxaw".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft7qgxaw
-run
-run
-run
-run
-run
-run
-restart
+# Loading work.buffer
 run -all
 # ** Note: $stop    : crossbar_driver_tb.v(22)
 #    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
 # Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:25 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 22:18:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:26 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 22:18:26 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:55 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
+# Start time: 01:28:55 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
+# Start time: 01:28:56 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
+# Start time: 01:28:56 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
+# Start time: 01:28:56 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:18:27 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:18:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:18:30 on Oct 23,2018, Elapsed time: 0:08:37
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:18:30 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlfth9kmb3".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlfth9kmb3
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:08 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:20:09 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:09 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:10 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:10 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:10 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:10 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:20:10 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:20:10 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:20:13 on Oct 23,2018, Elapsed time: 0:01:43
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:20:13 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftih8tky".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftih8tky
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:26 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:22:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:26 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:22:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:26 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:22:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:26 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:27 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:22:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:28 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:22:28 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:22:28 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:22:28 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:22:30 on Oct 23,2018, Elapsed time: 0:02:17
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:22:30 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft7kew20".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft7kew20
-run
-run
-run
-run
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:20 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:26:20 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:20 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:26:20 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:20 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:26:20 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:20 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:26:20 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:20 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:21 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:26:21 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:26:22 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:26:22 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:26:24 on Oct 23,2018, Elapsed time: 0:03:54
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:26:24 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftn994yj".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftn994yj
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:53 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:27:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:53 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:27:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:53 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:27:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:53 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:27:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:27:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:54 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:27:55 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:55 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:27:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:27:55 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:27:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:27:57 on Oct 23,2018, Elapsed time: 0:01:33
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:27:57 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlfth73aq4".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlfth73aq4
-run
-run
-run
-run
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:07 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:30:07 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:30:08 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:30:08 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:30:11 on Oct 23,2018, Elapsed time: 0:02:14
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:30:11 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftssb93r".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftssb93r
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:47 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:33:47 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:47 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:33:48 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:48 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:33:49 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:49 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:33:49 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:49 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:33:49 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:33:49 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:33:49 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:33:52 on Oct 23,2018, Elapsed time: 0:03:41
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:33:52 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft6khwgn".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft6khwgn
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:52 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:39:52 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:52 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:39:52 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:53 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:39:53 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:54 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:39:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:54 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:39:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:39:54 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:39:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:39:56 on Oct 23,2018, Elapsed time: 0:06:04
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:39:56 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftnv74bs".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftnv74bs
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:25 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:41:25 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:25 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:26 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:41:26 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:27 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:41:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:27 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:41:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:27 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:41:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:41:27 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:41:27 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:41:29 on Oct 23,2018, Elapsed time: 0:01:33
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:41:29 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftgm0ksc".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftgm0ksc
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:44:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:44:32 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:44:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:44:35 on Oct 23,2018, Elapsed time: 0:03:06
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:44:35 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftqqveis".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftqqveis
-# WARNING: No extended dataflow license exists
-# WARNING: No extended dataflow license exists
-# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
-# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
-# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
-# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:30 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:31 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:50:31 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:32 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:50:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:32 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:50:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:32 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:50:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:32 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:50:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:50:32 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:50:32 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:50:35 on Oct 23,2018, Elapsed time: 0:06:00
-# Errors: 4, Warnings: 4
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:50:35 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft11vw5d".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft11vw5d
-run
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:39 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:54:39 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:39 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:54:39 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:39 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:54:39 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:54:40 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:40 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:54:41 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:41 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver.v 
-# -- Compiling module crossbar_driver
-# 
-# Top level modules:
-# 	crossbar_driver
-# End time: 22:54:41 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:54:41 on Oct 23,2018
-# vlog -reportprogress 300 crossbar_driver_tb.v 
-# -- Compiling module crossbar_driver_tb
-# 
-# Top level modules:
-# 	crossbar_driver_tb
-# End time: 22:54:41 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# End time: 22:54:43 on Oct 23,2018, Elapsed time: 0:04:08
-# Errors: 0, Warnings: 2
-# vsim -novopt crossbar_driver_tb 
-# Start time: 22:54:43 on Oct 23,2018
-# Loading work.crossbar_driver_tb
-# Loading work.crossbar_driver
-# Loading work.ROM_mem_file_in
-# Loading work.ROM_mem_file_out
-# Loading work.memory_controller
-# ** Error: (vsim-3033) crossbar_driver.v(35): Instantiation of 'memory_controller_output' failed. The design unit was not found.
-#    Time: 0 ps  Iteration: 0  Instance: /crossbar_driver_tb/cd File: crossbar_driver.v
-#         Searched libraries:
-#             U:/HDL/Verilog/Crossbar_4x4/work
-# Loading work.switch
-# Loading work.mux_fabric
-# Loading work.dest_decoder
-# Loading work.decoder
-# Loading work.mux_sel_gen
-# Loading work.mux_matrix
-# Loading work.mux
-# Error loading design
-# Error: Error loading design
-#        Pausing macro execution
-# MACRO ./crossbar_driver.do PAUSED at line 17
-do crossbar_driver.do
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:54 on Oct 23,2018
-# vlog -reportprogress 300 mux.v 
-# -- Compiling module mux
-# 
-# Top level modules:
-# 	mux
-# End time: 22:55:54 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:54 on Oct 23,2018
-# vlog -reportprogress 300 decoder.v 
-# -- Compiling module decoder
-# 
-# Top level modules:
-# 	decoder
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 dest_decoder.v 
-# -- Compiling module dest_decoder
-# 
-# Top level modules:
-# 	dest_decoder
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 mux_sel_gen.v 
-# -- Compiling module mux_sel_gen
-# 
-# Top level modules:
-# 	mux_sel_gen
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 mux_matrix.v 
-# -- Compiling module mux_matrix
-# 
-# Top level modules:
-# 	mux_matrix
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 prior_encoder.v 
-# -- Compiling module prior_encoder
-# 
-# Top level modules:
-# 	prior_encoder
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 mux_fabric.v 
-# -- Compiling module mux_fabric
-# 
-# Top level modules:
-# 	mux_fabric
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 switch.v 
-# -- Compiling module switch
-# 
-# Top level modules:
-# 	switch
-# End time: 22:55:55 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:55 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_in.v 
-# -- Compiling module ROM_mem_file_in
-# 
-# Top level modules:
-# 	ROM_mem_file_in
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:56 on Oct 23,2018
-# vlog -reportprogress 300 ROM_mem_file_out.v 
-# -- Compiling module ROM_mem_file_out
-# 
-# Top level modules:
-# 	ROM_mem_file_out
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:56 on Oct 23,2018
-# vlog -reportprogress 300 memory_controller.v 
-# -- Compiling module memory_controller
-# 
-# Top level modules:
-# 	memory_controller
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:56 on Oct 23,2018
+# Start time: 01:28:56 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:56 on Oct 23,2018
+# Start time: 01:28:56 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:28:56 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:28:56 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:57 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:55:56 on Oct 23,2018
+# Start time: 01:28:57 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 22:55:56 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:28:57 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 01:28:59 on Oct 24,2018, Elapsed time: 0:06:14
 # Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 22:54:43 on Oct 23,2018
+# Start time: 01:28:59 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -2304,142 +582,151 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftghv4n0".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftghv4n0
+# Loading work.buffer
+run -all
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:00 on Oct 23,2018
+# Start time: 01:36:14 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:36:14 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:14 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 22:58:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:01 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:36:15 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:15 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:16 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:16 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:16 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:16 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:36:16 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:58:02 on Oct 23,2018
+# Start time: 01:36:16 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 22:58:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:36:16 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 22:58:05 on Oct 23,2018, Elapsed time: 0:03:22
-# Errors: 1, Warnings: 2
+# End time: 01:36:19 on Oct 24,2018, Elapsed time: 0:07:20
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 22:58:05 on Oct 23,2018
+# Start time: 01:36:19 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -2453,142 +740,151 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftnxrx6h".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftnxrx6h
+# Loading work.buffer
+run -all
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:03 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:03 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:03 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:03 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:03 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:03 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:03 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:03 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:03 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:03 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 22:59:01 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:01 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:04 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:39:04 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:39:05 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:05 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 22:59:02 on Oct 23,2018
+# Start time: 01:39:05 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 22:59:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:39:05 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 22:59:05 on Oct 23,2018, Elapsed time: 0:01:00
-# Errors: 0, Warnings: 2
+# End time: 01:39:07 on Oct 24,2018, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 22:59:05 on Oct 23,2018
+# Start time: 01:39:07 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -2602,142 +898,280 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftim0yn4".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftim0yn4
+# Loading work.buffer
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:40 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:02:40 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:40 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:02:40 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:40 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:02:40 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:40 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:02:40 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:40 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:02:40 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:30 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:30 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:41 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:02:41 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:42 on Oct 23,2018
+# Start time: 01:41:31 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:31 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver.v 
+# -- Compiling module crossbar_driver
+# ** Error: crossbar_driver.v(73): 'buff_out1' already declared in this scope.
+# End time: 01:41:31 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./crossbar_driver.do line 16
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog crossbar_driver.v"
+do crossbar_driver.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:41 on Oct 24,2018
+# vlog -reportprogress 300 mux.v 
+# -- Compiling module mux
+# 
+# Top level modules:
+# 	mux
+# End time: 01:41:41 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:41 on Oct 24,2018
+# vlog -reportprogress 300 decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 01:41:41 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:41 on Oct 24,2018
+# vlog -reportprogress 300 dest_decoder.v 
+# -- Compiling module dest_decoder
+# 
+# Top level modules:
+# 	dest_decoder
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 mux_sel_gen.v 
+# -- Compiling module mux_sel_gen
+# 
+# Top level modules:
+# 	mux_sel_gen
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 mux_matrix.v 
+# -- Compiling module mux_matrix
+# 
+# Top level modules:
+# 	mux_matrix
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 prior_encoder.v 
+# -- Compiling module prior_encoder
+# 
+# Top level modules:
+# 	prior_encoder
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 mux_fabric.v 
+# -- Compiling module mux_fabric
+# 
+# Top level modules:
+# 	mux_fabric
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 switch.v 
+# -- Compiling module switch
+# 
+# Top level modules:
+# 	switch
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_in.v 
+# -- Compiling module ROM_mem_file_in
+# 
+# Top level modules:
+# 	ROM_mem_file_in
+# End time: 01:41:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:42 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_out.v 
+# -- Compiling module ROM_mem_file_out
+# 
+# Top level modules:
+# 	ROM_mem_file_out
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:43 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller.v 
+# -- Compiling module memory_controller
+# 
+# Top level modules:
+# 	memory_controller
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:43 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:43 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:41:43 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:02:42 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:02:42 on Oct 23,2018
+# Start time: 01:41:43 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:02:42 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:41:43 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:02:44 on Oct 23,2018, Elapsed time: 0:03:39
-# Errors: 0, Warnings: 2
+# End time: 01:41:46 on Oct 24,2018, Elapsed time: 0:02:39
+# Errors: 4, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:02:44 on Oct 23,2018
+# Start time: 01:41:46 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -2751,142 +1185,152 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftv2kqcm".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftv2kqcm
+# Loading work.buffer
+# ** Warning: (vsim-3015) crossbar_driver.v(61): [PCDPC] - Port size (64) does not match connection size (1) for port 'dout'. The port definition is at: buffer.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /crossbar_driver_tb/cd/buff_out1 File: buffer.v
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:48 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:48 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:48 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:48 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:48 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:48 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:05:33 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:33 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:49 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:50 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:50 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:50 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:42:50 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:42:50 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:05:34 on Oct 23,2018
+# Start time: 01:42:50 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:05:34 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:42:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:05:37 on Oct 23,2018, Elapsed time: 0:02:53
-# Errors: 0, Warnings: 2
+# End time: 01:42:53 on Oct 24,2018, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 1
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:05:37 on Oct 23,2018
+# Start time: 01:42:53 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -2900,157 +1344,150 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftnkjj8e".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftnkjj8e
-add wave -position insertpoint  \
-sim:/crossbar_driver_tb/cd/mem_out/req \
-sim:/crossbar_driver_tb/cd/mem_out/cen \
-sim:/crossbar_driver_tb/cd/mem_out/start
-restart
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
+# Loading work.buffer
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:50 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:11:29 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:50 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:11:29 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:50 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:11:29 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:50 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:11:29 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:50 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:11:29 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:29 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:51 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:52 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:30 on Oct 23,2018
+# Start time: 01:49:52 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:49:52 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:49:52 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:11:30 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:52 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:11:31 on Oct 23,2018
+# Start time: 01:49:52 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:11:31 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:49:52 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:11:33 on Oct 23,2018, Elapsed time: 0:05:56
-# Errors: 0, Warnings: 2
+# End time: 01:49:55 on Oct 24,2018, Elapsed time: 0:07:02
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:11:33 on Oct 23,2018
+# Start time: 01:49:55 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -3064,142 +1501,147 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlft58zgd0".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft58zgd0
+# Loading work.buffer
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:12:24 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:17 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:24 on Oct 23,2018
+# Start time: 01:53:17 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:18 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:53:18 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:53:18 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:12:25 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:53:19 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:12:25 on Oct 23,2018
+# Start time: 01:53:19 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:12:26 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:53:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:12:29 on Oct 23,2018, Elapsed time: 0:00:56
-# Errors: 0, Warnings: 2
+# End time: 01:53:21 on Oct 24,2018, Elapsed time: 0:03:26
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:12:29 on Oct 23,2018
+# Start time: 01:53:21 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -3213,142 +1655,147 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftdvmegx".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftdvmegx
+# Loading work.buffer
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:18 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:16:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:18 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:16:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:18 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:16:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:18 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:16:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:18 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:18 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:16:02 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:02 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:16:03 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:19 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:03 on Oct 23,2018
+# Start time: 01:54:19 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:16:04 on Oct 23,2018, Elapsed time: 0:00:01
+# End time: 01:54:20 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:04 on Oct 23,2018
+# Start time: 01:54:20 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:54:20 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:54:20 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:16:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:20 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:16:04 on Oct 23,2018
+# Start time: 01:54:20 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:16:04 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:54:20 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:16:06 on Oct 23,2018, Elapsed time: 0:03:37
-# Errors: 0, Warnings: 2
+# End time: 01:54:22 on Oct 24,2018, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:16:06 on Oct 23,2018
+# Start time: 01:54:22 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -3362,142 +1809,147 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlfti0kdxs".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlfti0kdxs
+# Loading work.buffer
 do crossbar_driver.do
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:14 on Oct 23,2018
+# Start time: 01:56:49 on Oct 24,2018
 # vlog -reportprogress 300 mux.v 
 # -- Compiling module mux
 # 
 # Top level modules:
 # 	mux
-# End time: 23:18:14 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:49 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:14 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 decoder.v 
 # -- Compiling module decoder
 # 
 # Top level modules:
 # 	decoder
-# End time: 23:18:14 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 dest_decoder.v 
 # -- Compiling module dest_decoder
 # 
 # Top level modules:
 # 	dest_decoder
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 mux_sel_gen.v 
 # -- Compiling module mux_sel_gen
 # 
 # Top level modules:
 # 	mux_sel_gen
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 mux_matrix.v 
 # -- Compiling module mux_matrix
 # 
 # Top level modules:
 # 	mux_matrix
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 prior_encoder.v 
 # -- Compiling module prior_encoder
 # 
 # Top level modules:
 # 	prior_encoder
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 mux_fabric.v 
 # -- Compiling module mux_fabric
 # 
 # Top level modules:
 # 	mux_fabric
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 switch.v 
 # -- Compiling module switch
 # 
 # Top level modules:
 # 	switch
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:50 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:15 on Oct 23,2018
+# Start time: 01:56:50 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_in.v 
 # -- Compiling module ROM_mem_file_in
 # 
 # Top level modules:
 # 	ROM_mem_file_in
-# End time: 23:18:15 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:16 on Oct 23,2018
+# Start time: 01:56:51 on Oct 24,2018
 # vlog -reportprogress 300 ROM_mem_file_out.v 
 # -- Compiling module ROM_mem_file_out
 # 
 # Top level modules:
 # 	ROM_mem_file_out
-# End time: 23:18:16 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:16 on Oct 23,2018
+# Start time: 01:56:51 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller.v 
 # -- Compiling module memory_controller
 # 
 # Top level modules:
 # 	memory_controller
-# End time: 23:18:16 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:16 on Oct 23,2018
+# Start time: 01:56:51 on Oct 24,2018
 # vlog -reportprogress 300 memory_controller_output.v 
 # -- Compiling module memory_controller_output
 # 
 # Top level modules:
 # 	memory_controller_output
-# End time: 23:18:16 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:16 on Oct 23,2018
+# Start time: 01:56:51 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:56:51 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver.v 
 # -- Compiling module crossbar_driver
 # 
 # Top level modules:
 # 	crossbar_driver
-# End time: 23:18:16 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 23:18:16 on Oct 23,2018
+# Start time: 01:56:51 on Oct 24,2018
 # vlog -reportprogress 300 crossbar_driver_tb.v 
 # -- Compiling module crossbar_driver_tb
 # 
 # Top level modules:
 # 	crossbar_driver_tb
-# End time: 23:18:16 on Oct 23,2018, Elapsed time: 0:00:00
+# End time: 01:56:51 on Oct 24,2018, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# End time: 23:18:19 on Oct 23,2018, Elapsed time: 0:02:13
-# Errors: 0, Warnings: 2
+# End time: 01:56:53 on Oct 24,2018, Elapsed time: 0:02:31
+# Errors: 0, Warnings: 0
 # vsim -novopt crossbar_driver_tb 
-# Start time: 23:18:19 on Oct 23,2018
+# Start time: 01:56:53 on Oct 24,2018
 # Loading work.crossbar_driver_tb
 # Loading work.crossbar_driver
 # Loading work.ROM_mem_file_in
@@ -3511,10 +1963,624 @@ do crossbar_driver.do
 # Loading work.mux_sel_gen
 # Loading work.mux_matrix
 # Loading work.mux
-# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
-#           File in use by: koagi  Hostname: LAPTOP-NLVJD6LF  ProcessID: 10640
-#           Attempting to use alternate WLF file "./wlftwr1q9i".
-# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftwr1q9i
-# End time: 01:13:41 on Oct 24,2018, Elapsed time: 1:55:22
-# Errors: 0, Warnings: 2
+# Loading work.buffer
+do crossbar_driver.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:07 on Oct 24,2018
+# vlog -reportprogress 300 mux.v 
+# -- Compiling module mux
+# 
+# Top level modules:
+# 	mux
+# End time: 01:58:07 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:07 on Oct 24,2018
+# vlog -reportprogress 300 decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 01:58:07 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:07 on Oct 24,2018
+# vlog -reportprogress 300 dest_decoder.v 
+# -- Compiling module dest_decoder
+# 
+# Top level modules:
+# 	dest_decoder
+# End time: 01:58:07 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:07 on Oct 24,2018
+# vlog -reportprogress 300 mux_sel_gen.v 
+# -- Compiling module mux_sel_gen
+# 
+# Top level modules:
+# 	mux_sel_gen
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 mux_matrix.v 
+# -- Compiling module mux_matrix
+# 
+# Top level modules:
+# 	mux_matrix
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 prior_encoder.v 
+# -- Compiling module prior_encoder
+# 
+# Top level modules:
+# 	prior_encoder
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 mux_fabric.v 
+# -- Compiling module mux_fabric
+# 
+# Top level modules:
+# 	mux_fabric
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 switch.v 
+# -- Compiling module switch
+# 
+# Top level modules:
+# 	switch
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_in.v 
+# -- Compiling module ROM_mem_file_in
+# 
+# Top level modules:
+# 	ROM_mem_file_in
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_out.v 
+# -- Compiling module ROM_mem_file_out
+# 
+# Top level modules:
+# 	ROM_mem_file_out
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller.v 
+# -- Compiling module memory_controller
+# 
+# Top level modules:
+# 	memory_controller
+# End time: 01:58:08 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:08 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 01:58:09 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:09 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 01:58:09 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:09 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver.v 
+# -- Compiling module crossbar_driver
+# 
+# Top level modules:
+# 	crossbar_driver
+# End time: 01:58:09 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:58:09 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver_tb.v 
+# -- Compiling module crossbar_driver_tb
+# 
+# Top level modules:
+# 	crossbar_driver_tb
+# End time: 01:58:09 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 01:58:11 on Oct 24,2018, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 0
+# vsim -novopt crossbar_driver_tb 
+# Start time: 01:58:11 on Oct 24,2018
+# Loading work.crossbar_driver_tb
+# Loading work.crossbar_driver
+# Loading work.ROM_mem_file_in
+# Loading work.ROM_mem_file_out
+# Loading work.memory_controller
+# Loading work.memory_controller_output
+# Loading work.switch
+# Loading work.mux_fabric
+# Loading work.dest_decoder
+# Loading work.decoder
+# Loading work.mux_sel_gen
+# Loading work.mux_matrix
+# Loading work.mux
+# Loading work.buffer
+do crossbar_driver.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:46 on Oct 24,2018
+# vlog -reportprogress 300 mux.v 
+# -- Compiling module mux
+# 
+# Top level modules:
+# 	mux
+# End time: 02:00:46 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:46 on Oct 24,2018
+# vlog -reportprogress 300 decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 02:00:46 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:46 on Oct 24,2018
+# vlog -reportprogress 300 dest_decoder.v 
+# -- Compiling module dest_decoder
+# 
+# Top level modules:
+# 	dest_decoder
+# End time: 02:00:46 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:46 on Oct 24,2018
+# vlog -reportprogress 300 mux_sel_gen.v 
+# -- Compiling module mux_sel_gen
+# 
+# Top level modules:
+# 	mux_sel_gen
+# End time: 02:00:46 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:46 on Oct 24,2018
+# vlog -reportprogress 300 mux_matrix.v 
+# -- Compiling module mux_matrix
+# 
+# Top level modules:
+# 	mux_matrix
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 prior_encoder.v 
+# -- Compiling module prior_encoder
+# 
+# Top level modules:
+# 	prior_encoder
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 mux_fabric.v 
+# -- Compiling module mux_fabric
+# 
+# Top level modules:
+# 	mux_fabric
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 switch.v 
+# -- Compiling module switch
+# 
+# Top level modules:
+# 	switch
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_in.v 
+# -- Compiling module ROM_mem_file_in
+# 
+# Top level modules:
+# 	ROM_mem_file_in
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_out.v 
+# -- Compiling module ROM_mem_file_out
+# 
+# Top level modules:
+# 	ROM_mem_file_out
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller.v 
+# -- Compiling module memory_controller
+# 
+# Top level modules:
+# 	memory_controller
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 02:00:47 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:47 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 02:00:48 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:48 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver.v 
+# -- Compiling module crossbar_driver
+# 
+# Top level modules:
+# 	crossbar_driver
+# End time: 02:00:48 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:00:48 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver_tb.v 
+# -- Compiling module crossbar_driver_tb
+# 
+# Top level modules:
+# 	crossbar_driver_tb
+# End time: 02:00:48 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 02:00:50 on Oct 24,2018, Elapsed time: 0:02:39
+# Errors: 0, Warnings: 0
+# vsim -novopt crossbar_driver_tb 
+# Start time: 02:00:50 on Oct 24,2018
+# Loading work.crossbar_driver_tb
+# Loading work.crossbar_driver
+# Loading work.ROM_mem_file_in
+# Loading work.ROM_mem_file_out
+# Loading work.memory_controller
+# Loading work.memory_controller_output
+# Loading work.switch
+# Loading work.mux_fabric
+# Loading work.dest_decoder
+# Loading work.decoder
+# Loading work.mux_sel_gen
+# Loading work.mux_matrix
+# Loading work.mux
+# Loading work.buffer
+do crossbar_driver.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 mux.v 
+# -- Compiling module mux
+# 
+# Top level modules:
+# 	mux
+# End time: 02:01:14 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 02:01:14 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 dest_decoder.v 
+# -- Compiling module dest_decoder
+# 
+# Top level modules:
+# 	dest_decoder
+# End time: 02:01:14 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 mux_sel_gen.v 
+# -- Compiling module mux_sel_gen
+# 
+# Top level modules:
+# 	mux_sel_gen
+# End time: 02:01:14 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 mux_matrix.v 
+# -- Compiling module mux_matrix
+# 
+# Top level modules:
+# 	mux_matrix
+# End time: 02:01:14 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:14 on Oct 24,2018
+# vlog -reportprogress 300 prior_encoder.v 
+# -- Compiling module prior_encoder
+# 
+# Top level modules:
+# 	prior_encoder
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 mux_fabric.v 
+# -- Compiling module mux_fabric
+# 
+# Top level modules:
+# 	mux_fabric
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 switch.v 
+# -- Compiling module switch
+# 
+# Top level modules:
+# 	switch
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_in.v 
+# -- Compiling module ROM_mem_file_in
+# 
+# Top level modules:
+# 	ROM_mem_file_in
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_out.v 
+# -- Compiling module ROM_mem_file_out
+# 
+# Top level modules:
+# 	ROM_mem_file_out
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller.v 
+# -- Compiling module memory_controller
+# 
+# Top level modules:
+# 	memory_controller
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 02:01:15 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:15 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver.v 
+# -- Compiling module crossbar_driver
+# 
+# Top level modules:
+# 	crossbar_driver
+# End time: 02:01:16 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:01:16 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver_tb.v 
+# -- Compiling module crossbar_driver_tb
+# 
+# Top level modules:
+# 	crossbar_driver_tb
+# End time: 02:01:16 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 02:01:19 on Oct 24,2018, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 0
+# vsim -novopt crossbar_driver_tb 
+# Start time: 02:01:19 on Oct 24,2018
+# Loading work.crossbar_driver_tb
+# Loading work.crossbar_driver
+# Loading work.ROM_mem_file_in
+# Loading work.ROM_mem_file_out
+# Loading work.memory_controller
+# Loading work.memory_controller_output
+# Loading work.switch
+# Loading work.mux_fabric
+# Loading work.dest_decoder
+# Loading work.decoder
+# Loading work.mux_sel_gen
+# Loading work.mux_matrix
+# Loading work.mux
+# Loading work.buffer
+do crossbar_driver.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:42 on Oct 24,2018
+# vlog -reportprogress 300 mux.v 
+# -- Compiling module mux
+# 
+# Top level modules:
+# 	mux
+# End time: 02:04:42 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:42 on Oct 24,2018
+# vlog -reportprogress 300 decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 dest_decoder.v 
+# -- Compiling module dest_decoder
+# 
+# Top level modules:
+# 	dest_decoder
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 mux_sel_gen.v 
+# -- Compiling module mux_sel_gen
+# 
+# Top level modules:
+# 	mux_sel_gen
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 mux_matrix.v 
+# -- Compiling module mux_matrix
+# 
+# Top level modules:
+# 	mux_matrix
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 prior_encoder.v 
+# -- Compiling module prior_encoder
+# 
+# Top level modules:
+# 	prior_encoder
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 mux_fabric.v 
+# -- Compiling module mux_fabric
+# 
+# Top level modules:
+# 	mux_fabric
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 switch.v 
+# -- Compiling module switch
+# 
+# Top level modules:
+# 	switch
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_in.v 
+# -- Compiling module ROM_mem_file_in
+# 
+# Top level modules:
+# 	ROM_mem_file_in
+# End time: 02:04:43 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:43 on Oct 24,2018
+# vlog -reportprogress 300 ROM_mem_file_out.v 
+# -- Compiling module ROM_mem_file_out
+# 
+# Top level modules:
+# 	ROM_mem_file_out
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:44 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller.v 
+# -- Compiling module memory_controller
+# 
+# Top level modules:
+# 	memory_controller
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:44 on Oct 24,2018
+# vlog -reportprogress 300 memory_controller_output.v 
+# -- Compiling module memory_controller_output
+# 
+# Top level modules:
+# 	memory_controller_output
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:44 on Oct 24,2018
+# vlog -reportprogress 300 buffer.v 
+# -- Compiling module buffer
+# 
+# Top level modules:
+# 	buffer
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:44 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver.v 
+# -- Compiling module crossbar_driver
+# 
+# Top level modules:
+# 	crossbar_driver
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:04:44 on Oct 24,2018
+# vlog -reportprogress 300 crossbar_driver_tb.v 
+# -- Compiling module crossbar_driver_tb
+# 
+# Top level modules:
+# 	crossbar_driver_tb
+# End time: 02:04:44 on Oct 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 02:04:47 on Oct 24,2018, Elapsed time: 0:03:28
+# Errors: 0, Warnings: 0
+# vsim -novopt crossbar_driver_tb 
+# Start time: 02:04:47 on Oct 24,2018
+# Loading work.crossbar_driver_tb
+# Loading work.crossbar_driver
+# Loading work.ROM_mem_file_in
+# Loading work.ROM_mem_file_out
+# Loading work.memory_controller
+# Loading work.memory_controller_output
+# Loading work.switch
+# Loading work.mux_fabric
+# Loading work.dest_decoder
+# Loading work.decoder
+# Loading work.mux_sel_gen
+# Loading work.mux_matrix
+# Loading work.mux
+# Loading work.buffer
+run -all
+# ** Note: $stop    : crossbar_driver_tb.v(22)
+#    Time: 20500 ps  Iteration: 0  Instance: /crossbar_driver_tb
+# Break in Module crossbar_driver_tb at crossbar_driver_tb.v line 22

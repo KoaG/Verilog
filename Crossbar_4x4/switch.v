@@ -122,8 +122,13 @@ always @(ps_s,ready) begin
                         oport2 <= mem[2][0];
                         oport3 <= mem[3][0];
                     end
-                    else
+                    else begin
                         ns_s <= slot0;
+                        oport0 <= 15'd0;
+                        oport1 <= 15'd0;
+                        oport2 <= 15'd0;
+                        oport3 <= 15'd0;
+                    end
                 end
         slot1 : begin
                     send <= 1'b0;
@@ -152,6 +157,10 @@ always @(ps_s,ready) begin
         done :  begin
                     send <= 1'b1;
                     ns_s <= slot0;
+                    oport0 <= 15'd0;
+                    oport1 <= 15'd0;
+                    oport2 <= 15'd0;
+                    oport3 <= 15'd0;
                 end
     endcase
 end

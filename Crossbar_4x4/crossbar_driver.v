@@ -8,6 +8,7 @@ wire start_in,start_out;
 wire [9:0]addr_in,addr_out;
 wire [14:0]op0,op1,op2,op3;
 wire [0:63]in_data,out_data;
+wire [0:63]odata1,odata2;
 
 ROM_mem_file_in in_mem(
     .clk(clk),
@@ -57,16 +58,30 @@ switch crossbar(
     .oport3(op3)
 );
 
+buffer buff_out1(
+    .clk(clk),
+    .rst(rst),
+    .din({{1'b0,op0},{1'b0,op1},{1'b0,op2},{1'b0,op3}}),
+    .dout(odata1)
+);
+
+buffer buff_out2(
+    .clk(clk),
+    .rst(rst),
+    .din(odata1),
+    .dout(odata2)
+);
+
 always @(posedge clk, posedge rst) begin
     if(rst) begin
         hit <= 1'b0;
         miss <= 1'b0;
     end
-    else if({{1'b0,op0},{1'b0,op1},{1'b0,op2},{1'b0,op3}} == out_data) begin
+    else if(odata2 == out_data && start_out) begin
         hit <= 1'b1;
         miss <= 1'b0;
     end
-    else if({{1'b0,op0},{1'b0,op1},{1'b0,op2},{1'b0,op3}} != out_data) begin
+    else if(odata2 != out_data && start_out) begin
         hit <= 1'b0;
         miss <= 1'b1;
     end
