@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module buffer(
     input clk,rst,
     input [0:63]din,
@@ -6,7 +7,7 @@ module buffer(
 
 always @(posedge clk, posedge rst) begin
     if(rst)
-        dout <= 60'd0;
+        dout <= 63'd0;
     else
         dout <= din;
 end

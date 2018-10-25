@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module switch(
     input clk,rst,start,
     input [14:0]iport0,iport1,iport2,iport3,
@@ -29,35 +30,40 @@ mux_fabric mf(
     .os20(mem[2][0]),.os21(mem[2][1]),.os22(mem[2][2]),.os23(mem[2][3]),
     .os30(mem[3][0]),.os31(mem[3][1]),.os32(mem[3][2]),.os33(mem[3][3]),
     .slot(count),
-    .clr(clr)
+    .clr(clr),
+    .clk(clk),
+    .rst(rst)
 );
 
 wire handshake;
 assign handshake = start & req;
 
-always @(posedge clk,posedge handshake, posedge rst) begin
+always @(posedge clk, posedge rst) begin
     if(rst) begin
         ps_r <= idle;
         ps_s <= slot0;
-    end
+    end/*
     else if(handshake) begin
         ps_r <= slot0;
         ps_s <= slot0;
-    end
+    end*/
     else begin
         ps_r <= ns_r;
         ps_s <= ns_s;
     end
 end
 
-always @(ps_r,send) begin
+always @(ps_r,handshake,send) begin
     case(ps_r)
         idle  : begin
                     clr <= 1'b1;
                     ready <= 1'b0;
                     count <= 2'b00;
                     req <= 1'b1;
-                    ns_r <= idle;
+                    if(handshake)
+                        ns_r <= slot0;
+                   else
+                        ns_r <= idle;
                 end
         slot0 : begin
                     clr <= 1'b0;
@@ -108,6 +114,13 @@ always @(ps_r,send) begin
                         req <= 1'b0;
                     end
                 end
+        default :   begin
+                        clr <= 1'b1;
+                        ready <= 1'b0;
+                        count <= 2'b00;
+                        req <= 1'b1;
+                        ns_r <= idle;
+                    end
     endcase
 end
 
@@ -162,6 +175,14 @@ always @(ps_s,ready) begin
                     oport2 <= 15'd0;
                     oport3 <= 15'd0;
                 end
+        default :   begin
+                        send <= 1'b0;
+                        ns_s <= slot0;
+                        oport0 <= 15'd0;
+                        oport1 <= 15'd0;
+                        oport2 <= 15'd0;
+                        oport3 <= 15'd0;
+                    end
     endcase
 end
 endmodule
