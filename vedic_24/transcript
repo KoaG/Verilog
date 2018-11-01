@@ -1,0 +1,1321 @@
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:02:59 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 16:02:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic3.do line 1
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog ha.v"
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:03:14 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 16:03:14 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic3.do line 1
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog ha.v"
+vlib work
+vlog -reportprogress 300 -work work U:/HDL/Verilog/vedic_24/ha.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:03:45 on Nov 01,2018
+# vlog -reportprogress 300 -work work U:/HDL/Verilog/vedic_24/ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:03:46 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlib work
+# ** Warning: (vlib-34) Library already exists at "work".
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:00 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:04:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:00 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:04:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:00 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# ** Error: comp4to3.v(8): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(8): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(8): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(9): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(9): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(9): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(10): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(10): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(10): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(11): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(11): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(11): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(12): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(12): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(12): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(13): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(13): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(13): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(14): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(14): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(14): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(15): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(15): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(15): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(16): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(16): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(16): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(17): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(17): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(17): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(18): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(18): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(18): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(19): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(19): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(19): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(20): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(20): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(20): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(21): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(21): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(21): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(22): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(22): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(22): (vlog-2110) Illegal reference to net "cout".
+# ** Error: comp4to3.v(23): (vlog-2110) Illegal reference to net "s".
+# ** Error: comp4to3.v(23): (vlog-2110) Illegal reference to net "cin".
+# ** Error: comp4to3.v(23): (vlog-2110) Illegal reference to net "cout".
+# End time: 16:04:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 48, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic3.do line 3
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog comp4to3.v"
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:17 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:04:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:17 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:04:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:17 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:04:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:18 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# ** Error: (vlog-13069) vedic_3.v(8): near ",": syntax error, unexpected ',', expecting '('.
+# ** Error: vedic_3.v(9): 'i' is an invalid type in Generate loop. Must be a genvar.
+# ** Error: vedic_3.v(10): 'j' is an invalid type in Generate loop. Must be a genvar.
+# End time: 16:04:18 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic3.do line 5
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog vedic_3.v"
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:39 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:04:39 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:39 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:04:39 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:39 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:04:40 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:04:40 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:04:40 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_3 
+# Start time: 16:04:41 on Nov 01,2018
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# ** Error: invalid command name "0"
+# Error in macro ./vedic3.do line 9
+# invalid command name "0"
+#     while executing
+# "0"
+#     invoked from within
+# "force clk ./b[0] 1,0 {20} -r 40"
+force -freeze {sim:/vedic_3/b[0]} 1 0, 0 {50 ps} -r 100
+force clock /b[1] 0 1 {50} -r 100
+# invalid command name "1"
+force clock /b[1] 0 1,0 {50} -r 100
+# invalid command name "1"
+force clock /b[1] 1,0 {50} -r 100
+# invalid command name "1"
+force clock ./b[1] 1,0 {50} -r 100
+# invalid command name "1"
+force clock ./b[1] 1,0 {50} -r 100
+# invalid command name "1"
+force -freeze sim:/vedic_3/c1 0 0, 1 {50 ps} -r 100
+force clock ./b[1] 0,1 {50} -r 100
+# invalid command name "1"
+force clock ./b[1] 0, 1 {50} -r 100
+# invalid command name "1"
+force clock ./b[1] 0 0, 1 {50} -r 100
+# invalid command name "1"
+force /b[1] 0 0, 1 {50} -r 100
+# invalid command name "1"
+force vedic_3/b[1] 0 0, 1 {50} -r 100
+# invalid command name "1"
+force vedic_3/b[1] 0 0, 1 {50 ps} -r 100
+# invalid command name "1"
+force clock vedic_3/b[1] 0 0, 1 {50 ps} -r 100
+# invalid command name "1"
+force clock {vedic_3/b[1]} 0 0, 1 {50 ps} -r 100
+# ** Error (suppressible): (vsim-4008) Object 'clock' not found.
+# 
+force {vedic_3/b[1]} 0 0, 1 {50 ps} -r 100
+run
+force {vedic_3/b[1]} 0 0, 1 {50 ps} -r 100
+force vedic_3/b[1] 0 0, 1 {50 ps} -r 100
+# invalid command name "1"
+force {b[1]} 0 0, 1 {50 ps} -r 100
+force {b[2]} 0 0, 1 {50 ps} -r 100
+run
+force {b[2]}  0, 1 {50 ps} -r 100
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:11:29 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:11:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:11:29 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:11:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:11:30 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:11:30 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:11:30 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:11:30 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:11:32 on Nov 01,2018, Elapsed time: 0:06:51
+# Errors: 17, Warnings: 0
+# vsim -novopt vedic_3 
+# Start time: 16:11:32 on Nov 01,2018
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:12:18 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:12:18 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:12:18 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:12:18 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:12:18 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:12:19 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:12:19 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:12:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:12:21 on Nov 01,2018, Elapsed time: 0:00:49
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_3 
+# Start time: 16:12:21 on Nov 01,2018
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:43:19 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:43:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:43:19 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:43:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:43:19 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:43:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:43:19 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:43:20 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Error: invalid command name "//vsim"
+# Error in macro ./vedic3.do line 6
+# invalid command name "//vsim"
+#     while executing
+# "//vsim -novopt vedic_3"
+//
+# invalid command name "//"
+/
+# invalid command name "/"
+*
+# invalid command name "*"
+#
+#
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:44:03 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:44:04 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:44:04 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:44:04 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:44:04 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:44:04 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:44:04 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:44:04 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:13 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:52:13 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:13 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:52:13 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:13 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:52:13 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:14 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:52:14 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:14 on Nov 01,2018
+# vlog -reportprogress 300 add1_2.v 
+# ** Error: (vlog-7) Failed to open design unit file "add1_2.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 16:52:14 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic6.do line 2
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog add1_2.v"
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:28 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:52:28 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:52:29 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 16:52:29 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:52:32 on Nov 01,2018, Elapsed time: 0:40:11
+# Errors: 10, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 16:52:32 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# ** Error: (vsim-3033) adder_6.v(9): Instantiation of 'csa_4bit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /vedic_6/add61 File: adder_6.v
+#         Searched libraries:
+#             U:/HDL/Verilog/vedic_24/work
+# ** Error: (vsim-3033) vedic_6.v(26): Instantiation of 'add1_2' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /vedic_6 File: vedic_6.v
+#         Searched libraries:
+#             U:/HDL/Verilog/vedic_24/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./vedic6.do PAUSED at line 6
+do vedic3.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:44 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:53:44 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:44 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:53:44 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:44 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:53:45 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:45 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:53:45 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:47 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 16:53:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:47 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 16:53:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:47 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:48 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 16:53:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 16:52:32 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b
+run
+run
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:47 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:11:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:47 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:11:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:47 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:11:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:47 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:11:47 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:47 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:48 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:48 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:48 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:48 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:48 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 17:11:48 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:11:50 on Nov 01,2018, Elapsed time: 0:19:18
+# Errors: 2, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 17:11:50 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:18:59 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:18:59 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:19:00 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:19:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:19:00 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:19:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:19:00 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:19:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:19:00 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 17:19:00 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:19:02 on Nov 01,2018, Elapsed time: 0:07:12
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 17:19:02 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b
+force -freeze sim:/vedic_6/a 6'd62 0
+force -freeze sim:/vedic_6/b 6'd7 0
+run
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:19 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:22:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:19 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:22:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:19 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:22:19 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:19 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:22:20 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# ** Error: vedic_6.v(19): (vlog-13161) unexpected '$display'
+# End time: 17:22:20 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./vedic6.do line 7
+# C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog vedic_6.v"
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:16 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:23:16 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:16 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:23:16 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:16 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:23:16 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:23:17 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 17:23:17 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:23:19 on Nov 01,2018, Elapsed time: 0:04:17
+# Errors: 4, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 17:23:19 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:07 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:24:07 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:07 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:24:07 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:07 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:24:08 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:24:08 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 17:24:09 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 17:24:11 on Nov 01,2018, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 17:24:11 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b
+do vedic6.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:37 on Nov 01,2018
+# vlog -reportprogress 300 ha.v 
+# -- Compiling module ha
+# 
+# Top level modules:
+# 	ha
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 comp4to3.v 
+# -- Compiling module comp4to3
+# 
+# Top level modules:
+# 	comp4to3
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 vedic_3.v 
+# -- Compiling module vedic_3
+# 
+# Top level modules:
+# 	vedic_3
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_0.v 
+# -- Compiling module cla_4bit_0
+# 
+# Top level modules:
+# 	cla_4bit_0
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 cla_4bit_1.v 
+# -- Compiling module cla_4bit_1
+# 
+# Top level modules:
+# 	cla_4bit_1
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 csa_4bit.v 
+# -- Compiling module csa_4bit
+# 
+# Top level modules:
+# 	csa_4bit
+# End time: 17:25:38 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:38 on Nov 01,2018
+# vlog -reportprogress 300 add1_2b.v 
+# -- Compiling module add1_2b
+# 
+# Top level modules:
+# 	add1_2b
+# End time: 17:25:39 on Nov 01,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:39 on Nov 01,2018
+# vlog -reportprogress 300 adder_6.v 
+# -- Compiling module adder_6
+# 
+# Top level modules:
+# 	adder_6
+# End time: 17:25:39 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:25:39 on Nov 01,2018
+# vlog -reportprogress 300 vedic_6.v 
+# -- Compiling module vedic_6
+# 
+# Top level modules:
+# 	vedic_6
+# End time: 17:25:39 on Nov 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 17:25:41 on Nov 01,2018, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 0
+# vsim -novopt vedic_6 
+# Start time: 17:25:41 on Nov 01,2018
+# Loading work.vedic_6
+# Loading work.vedic_3
+# Loading work.ha
+# Loading work.comp4to3
+# Loading work.fa
+# Loading work.adder_6
+# Loading work.csa_4bit
+# Loading work.cla_4bit_0
+# Loading work.cla_4bit_1
+# Loading work.add1_2b

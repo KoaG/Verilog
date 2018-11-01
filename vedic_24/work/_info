@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dU:/HDL/Verilog/vedic_24
+vadd1_2b
+Z1 !s110 1541073339
+!i10b 1
+!s100 Q1>^io^;DjL>BIH>DfLg21
+ISFM8`A9<58FIbVh?GlzUQ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1541070704
+8add1_2b.v
+Fadd1_2b.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1541073338.000000
+!s107 add1_2b.v|
+!s90 -reportprogress|300|add1_2b.v|
+!i113 1
+Z5 tCvgOpt 0
+vadder_6
+R1
+!i10b 1
+!s100 EIAKz=EM5<CzO?Y6OBcd?2
+Id::=h>6o@_VnAFF[AfT_B3
+R2
+R0
+w1541070385
+8adder_6.v
+Fadder_6.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1541073339.000000
+!s107 adder_6.v|
+!s90 -reportprogress|300|adder_6.v|
+!i113 1
+R5
+vcla_4bit_0
+Z7 !s110 1541073338
+!i10b 1
+!s100 :9VC=AdQCNk>2R:j@diGO1
+IMkj6KAmAh1>OicIiN;5=:1
+R2
+R0
+Z8 w1541070131
+8cla_4bit_0.v
+Fcla_4bit_0.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 cla_4bit_0.v|
+!s90 -reportprogress|300|cla_4bit_0.v|
+!i113 1
+R5
+vcla_4bit_1
+R7
+!i10b 1
+!s100 VW;mzTVbb90>8=g4WfQ]>3
+IELc@XMgJ=N@DgO_6QfX:`0
+R2
+R0
+R8
+8cla_4bit_1.v
+Fcla_4bit_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 cla_4bit_1.v|
+!s90 -reportprogress|300|cla_4bit_1.v|
+!i113 1
+R5
+vcomp4to3
+R7
+!i10b 1
+!s100 <[8NN15OS7hn7CRZEj=VF2
+I:JjKMc8nE?43JaXNIACI<0
+R2
+R0
+w1541068454
+8comp4to3.v
+Fcomp4to3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 comp4to3.v|
+!s90 -reportprogress|300|comp4to3.v|
+!i113 1
+R5
+vcsa_4bit
+R7
+!i10b 1
+!s100 YU43[`Re8=HTRMHGi^JEn1
+I3R7n1C>?_Ze00W>ZL8]W13
+R2
+R0
+R8
+8csa_4bit.v
+Fcsa_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 csa_4bit.v|
+!s90 -reportprogress|300|csa_4bit.v|
+!i113 1
+R5
+vfa
+R7
+!i10b 1
+!s100 8zV0L6T<2SzmzU8XihDJi0
+IW=9dE:?gFA=BlaKMdC0zY0
+R2
+R0
+w1541067336
+8fa.v
+Ffa.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 fa.v|
+!s90 -reportprogress|300|fa.v|
+!i113 1
+R5
+vha
+R7
+!i10b 1
+!s100 FQOo>ika[_ojRj[jkfgGj1
+IMSeokHFRgk]CU;D>8`hRH2
+R2
+R0
+w1541068392
+8ha.v
+Fha.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1541073337.000000
+!s107 ha.v|
+!s90 -reportprogress|300|ha.v|
+!i113 1
+R5
+vvedic_3
+R7
+!i10b 1
+!s100 Vd[KSdlR^fYb1o9T_Xj?a0
+IW9W]@MoH:CemcUZ2IIO<o1
+R2
+R0
+w1541068936
+8vedic_3.v
+Fvedic_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 vedic_3.v|
+!s90 -reportprogress|300|vedic_3.v|
+!i113 1
+R5
+vvedic_6
+R1
+!i10b 1
+!s100 n80=aHQIZ6zJ26dm>3kQO2
+IiJd43=VDJTUX]_BZA`3N@3
+R2
+R0
+w1541073328
+8vedic_6.v
+Fvedic_6.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 vedic_6.v|
+!s90 -reportprogress|300|vedic_6.v|
+!i113 1
+R5
