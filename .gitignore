@@ -1,3 +1,10 @@
-/*.wlf
-/transcript
-/work
+/**/*.wlf
+/**/transcript
+/**/work
+vedic_24/transcript
+vedic_24/work/_info
+vedic_24/work/_lib.qdb
+vedic_24/work/_lib1_20.qdb
+vedic_24/work/_lib1_20.qpg
+vedic_24/work/_lib1_20.qtl
+vedic_24/work/_vmake
